@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"myToolBar"</string>
+
+    <!-- activity_main.xml -->
+    <string name="welcome_openclassrooms">"OpenClassRooms, it\'s really the top of top !"</string>
+    <string name="search">Search</string>
+    <string name="parameter">Parameter</string>
+</resources>
